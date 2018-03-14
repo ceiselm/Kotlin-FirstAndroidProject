@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNewApp</string>
+    <string name="title_activity_second_activity">SecondActivityActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_last">LastActivity</string>
+    <string name="Next">Next</string>
+    <string name="Prev">Prev</string>
+    <string name="Done">Done</string>
+</resources>
